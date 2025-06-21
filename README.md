@@ -1,15 +1,25 @@
-FastAPI Simple API Project
-Description
-A simple FastAPI project that returns information about a car.
+# FastAPI Simple API Project
+
+## Description  
+A simple FastAPI project that returns information about a car.  
 This project is for learning and practicing Python APIs.
 
-Requirements
-Python 3.7 or higher installed
-Pip package manager installed
-Installation & Running the API (all in one)
+---
+
+## Requirements  
+
+- Python 3.7 or higher installed  
+- Pip package manager installed  
+
+---
+
+## Installation & Running the API (all in one)
+
 Open your terminal and run these commands:
 
-Windows
+### Windows
+
+```bash
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
 python -m venv .venv
